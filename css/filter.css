@@ -1,0 +1,53 @@
+
+
+p {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: .18em;
+  text-align: center;
+  padding-top: 30px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.brand {
+  text-align: center;
+}
+
+.brand img {
+  width: 50px;
+}
+
+.p1:hover, .p2:hover {
+	opacity: .3;
+}
+
+h4 {
+	color: grey;
+	font-size: 24px;
+	font-weight: 400;
+}
+
+portfolio p {
+	color: grey;
+	font-size: 12px;
+	font-weight: 200;
+}
+
+a {
+	color: #cd6839;
+}
+
+
+.single-content img {
+	width: 290px;
+	height: 100%;
+	margin: 10px;
+}
+
+.filters {
+	width: 100%;
+	text-align: center;
+}
